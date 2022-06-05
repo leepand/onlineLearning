@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: onlineLearning
+Version: 0.0.1
+Summary: Contextual bandit in python
+Home-page: https://github.com/leepand/onlineLearning
+Author: leepand
+Author-email: pandeng.li@163.com
+License: UNKNOWN
+Description: See `github <https://github.com/leepand/onlineLearning>`_ for more information.
+Platform: UNKNOWN
+Classifier: Topic :: Scientific/Engineering
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
